@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EjercicioUnoDesafioPractico</string>
+    <string name="titulo">CALCULAR PROMEDIO</string>
+    <string name="nota1">Ingrese Nota Uno: </string>
+    <string name="nota2">Ingrese Nota Dos: </string>
+    <string name="nota3">Ingrese Nota Tres: </string>
+    <string name="nota4">Ingrese Nota Cuatro: </string>
+    <string name="nota5">Ingrese Nota Cinco: </string>
+    <string name="resultado">El Resultado es: </string>
+
+</resources>
